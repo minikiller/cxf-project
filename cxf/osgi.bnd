@@ -1,0 +1,12 @@
+#-----------------------------------------------------------------
+# Use this file to add customized Bnd instructions for the bundle
+#-----------------------------------------------------------------
+Bundle-ClassPath:.,WEB-INF/lib,WEB-INF/lib/activation.jar,WEB-INF/lib/avalon-framework-cvs-20020806.jar,WEB-INF/lib/batik.jar,WEB-INF/lib/commons-beanutils-1.6.jar,WEB-INF/lib/commons-collections-3.1.jar,WEB-INF/lib/commons-dbcp-1.2.1.jar,WEB-INF/lib/commons-digester-1.5.jar,WEB-INF/lib/commons-fileupload-1.0.jar,WEB-INF/lib/commons-logging-1.0.4.jar,WEB-INF/lib/commons-math-1.0.jar,WEB-INF/lib/commons-pool-1.2.jar,WEB-INF/lib/commons-vfs-1.0.jar,WEB-INF/lib/commons-vfs.jar,WEB-INF/lib/derby.jar,WEB-INF/lib/dom4j.jar,WEB-INF/lib/eigenbase-properties.jar,WEB-INF/lib/eigenbase-resgen.jar,WEB-INF/lib/eigenbase-xom.jar,WEB-INF/lib/fop.jar,WEB-INF/lib/groovy-all-1.0-jsr-03.jar,WEB-INF/lib/jai_codec.jar,WEB-INF/lib/jai_core.jar,WEB-INF/lib/jakarta-regexp-1.2.jar,WEB-INF/lib/javacup.jar,WEB-INF/lib/jaxen-full.jar,WEB-INF/lib/jcommon-1.0.0.jar,WEB-INF/lib/jfreechart-1.0.0.jar,WEB-INF/lib/jpivot.jar,WEB-INF/lib/jsf-api.jar,WEB-INF/lib/jstl.jar,WEB-INF/lib/junit.jar,WEB-INF/lib/log4j-1.2.8.jar,WEB-INF/lib/mail.jar,WEB-INF/lib/mondrian.jar,WEB-INF/lib/olap4j-xmla.jar,WEB-INF/lib/olap4j.jar,WEB-INF/lib/saaj-api.jar,WEB-INF/lib/saaj-ri.jar,WEB-INF/lib/saxpath.jar,WEB-INF/lib/standard.jar,WEB-INF/lib/tbutils-wcf.jar,WEB-INF/lib/wcf.jar,WEB-INF/lib/xalan.jar,WEB-INF/lib/xmlunit.jar
+Bundle-Activator: ${bundle.namespace}.internal.ExampleActivator
+#打包后不包括web路径
+Include-Resource: {src/main/resources}
+#把类打包到WEB-INF/CLASS路径
+-wab:src/main/webapp
+#打包类库
+#-wablib: {maven-dependencies}
+Web-ContextPath:/test

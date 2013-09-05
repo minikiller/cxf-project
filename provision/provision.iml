@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.osgi:org.osgi.compendium:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.osgi:org.osgi.core:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.webconsole:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.logging:pax-logging-service:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.logging:pax-logging-api:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-jetty-bundle:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-jsp:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.base:ops4j-base-util-xml:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.base:ops4j-base-lang:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.base:ops4j-base-util-collections:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jsp-2.1-glassfish:2.1.v20091210" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jsp-api-2.1-glassfish:2.1.v20091210" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:3.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-extender-war:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.swissbox:pax-swissbox-core:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.swissbox:pax-swissbox-lifecycle:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.swissbox:pax-swissbox-extender:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.5.11" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.swissbox:pax-swissbox-optional-jcl:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.swissbox:pax-swissbox-tracker:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-extender-whiteboard:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-spi:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.web:pax-web-deployer:3.0.0.RC" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-finder:3.12" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-bundleutils:3.12" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.bundles:json:20090211_1" level="project" />
+    <orderEntry type="library" name="Maven: org.objectweb.asm:com.springsource.org.objectweb.asm:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.objectweb.asm:com.springsource.org.objectweb.asm.commons:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.objectweb.asm:com.springsource.org.objectweb.asm.tree:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.fileinstall:3.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.blueprint:org.apache.aries.blueprint.core:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.blueprint:org.apache.aries.blueprint.api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries:org.apache.aries.util:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.quiesce:org.apache.aries.quiesce.api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.proxy:org.apache.aries.proxy.api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.blueprint:org.apache.aries.blueprint.cm:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.aries.proxy:org.apache.aries.proxy.impl:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.servicemix.specs:org.apache.servicemix.specs.jsr339-api-m10:2.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.3.3" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-core:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-api:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.woodstox:stax2-api:3.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ws.xmlschema:xmlschema-core:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-javamail_1.4_spec:1.7.1" level="project" />
+    <orderEntry type="library" name="Maven: wsdl4j:wsdl4j:1.6.3" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-frontend-jaxrs:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0-m10" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-bindings-xml:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-transports-http:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-rs-extension-providers:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-rs-extension-search:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.cxf:cxf-rt-management:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-activation_1.1_spec:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.servicemix.bundles:org.apache.servicemix.bundles.wsdl4j:1.6.2_6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.configadmin:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.metatype:1.0.6" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.kxml:kxml2:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
+  </component>
+</module>
+
